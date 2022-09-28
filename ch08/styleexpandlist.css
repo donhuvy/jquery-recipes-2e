@@ -1,3 +1,11 @@
-.plusimageapply{list-style-image:url(plus.jpg);}
-.minusimageapply{list-style-image:url(minus.jpg);}
-.noimage{list-style-image:none;}
+.plusimageapply {
+    list-style-image: url(plus.jpg);
+}
+
+.minusimageapply {
+    list-style-image: url(minus.jpg);
+}
+
+.noimage {
+    list-style-image: none;
+}

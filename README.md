@@ -1,6 +1,7 @@
 # Apress Source Code
 
-This repository accompanies [*JQuery Recipes, 2nd Edition*](https://link.springer.com/book/10.1007/978-1-4842-7304-3) by Bintu Harwani (Apress, 2022).
+This repository accompanies [*JQuery Recipes, 2nd Edition*](https://link.springer.com/book/10.1007/978-1-4842-7304-3) by
+Bintu Harwani (Apress, 2022).
 
 [comment]: #cover
 ![Cover image](9781484273036.jpg)

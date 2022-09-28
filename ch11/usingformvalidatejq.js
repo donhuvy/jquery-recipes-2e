@@ -1,7 +1,7 @@
-$(document).ready(function() {
-$("#myForm").validate({
-  submitHandler: function(form) {
-    form.submit();
-  }
- });
+$(document).ready(function () {
+    $("#myForm").validate({
+        submitHandler: function (form) {
+            form.submit();
+        }
+    });
 });

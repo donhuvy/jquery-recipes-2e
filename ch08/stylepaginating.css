@@ -1,2 +1,8 @@
-.hover { background-color: #00f; color: #fff; }
-.page{ margin:5px; }
+.hover {
+    background-color: #00f;
+    color: #fff;
+}
+
+.page {
+    margin: 5px;
+}

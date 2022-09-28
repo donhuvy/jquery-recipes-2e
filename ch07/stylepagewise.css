@@ -1,7 +1,8 @@
-.page{
-	margin:5px;
+.page {
+    margin: 5px;
 }
-.hover{
-	color: blue ;
-	background-color:cyan
+
+.hover {
+    color: blue;
+    background-color: cyan
 }

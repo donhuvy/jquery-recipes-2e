@@ -1,3 +1,3 @@
-$(document).ready(function() {   
-  $('table tr:odd').addClass('hover');
+$(document).ready(function () {
+    $('table tr:odd').addClass('hover');
 });

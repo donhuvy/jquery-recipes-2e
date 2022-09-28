@@ -1,3 +1,3 @@
-$(document).ready(function() {
-	alert($('p').text());
+$(document).ready(function () {
+    alert($('p').text());
 });

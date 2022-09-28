@@ -1,3 +1,3 @@
-$(document).ready(function() {
-$( "#jquery_intro" ).dialog();
+$(document).ready(function () {
+    $("#jquery_intro").dialog();
 });

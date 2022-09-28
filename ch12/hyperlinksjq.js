@@ -1,3 +1,3 @@
-$(document).ready(function() {
-	$('a[href]').addClass('linkstyle');
+$(document).ready(function () {
+    $('a[href]').addClass('linkstyle');
 });

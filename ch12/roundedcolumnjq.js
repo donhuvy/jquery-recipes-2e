@@ -1,3 +1,3 @@
-$(document).ready(function() {
-  $('p').addClass('backfig');
+$(document).ready(function () {
+    $('p').addClass('backfig');
 });

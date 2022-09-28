@@ -1,3 +1,3 @@
-$(document).ready(function() {
-  $('#drink >li').addClass('highlight');
+$(document).ready(function () {
+    $('#drink >li').addClass('highlight');
 });

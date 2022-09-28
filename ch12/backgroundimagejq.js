@@ -1,3 +1,3 @@
-$(document).ready(function() {
-  $('body').addClass('placeimage');
+$(document).ready(function () {
+    $('body').addClass('placeimage');
 });

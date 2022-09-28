@@ -1,9 +1,10 @@
 .highlight {
-	font-style: italic;
-	background-color: #0f0;
+    font-style: italic;
+    background-color: #0f0;
 }
-.redandbold{
-	color:red;
-	font-family:arial;
-	font-weight:bold
+
+.redandbold {
+    color: red;
+    font-family: arial;
+    font-weight: bold
 }

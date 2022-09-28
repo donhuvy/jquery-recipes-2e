@@ -1,3 +1,3 @@
-$(document).ready(function() {   
-  $('li').addClass('dispdisc');
+$(document).ready(function () {
+    $('li').addClass('dispdisc');
 });

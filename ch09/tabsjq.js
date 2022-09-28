@@ -1,3 +1,3 @@
-$(document).ready(function() {
-   $( "#showinfo" ).tabs();
+$(document).ready(function () {
+    $("#showinfo").tabs();
 });

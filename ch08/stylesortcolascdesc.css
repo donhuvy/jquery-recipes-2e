@@ -1,7 +1,9 @@
-.asc{
-background:url('up.png') no-repeat; padding-left:20px; 
+.asc {
+    background: url('up.png') no-repeat;
+    padding-left: 20px;
 }
 
-.desc{
-background:url('down.png') no-repeat; padding-left:20px; 
+.desc {
+    background: url('down.png') no-repeat;
+    padding-left: 20px;
 }

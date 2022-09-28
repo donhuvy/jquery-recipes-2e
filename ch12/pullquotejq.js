@@ -1,3 +1,3 @@
-$(document).ready(function() {
-  $('p.feature').addClass('quote');
+$(document).ready(function () {
+    $('p.feature').addClass('quote');
 });

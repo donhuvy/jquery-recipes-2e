@@ -1,3 +1,3 @@
-$(document).ready(function() {   
-  $('#intro').addClass('dispdisc');
+$(document).ready(function () {
+    $('#intro').addClass('dispdisc');
 });

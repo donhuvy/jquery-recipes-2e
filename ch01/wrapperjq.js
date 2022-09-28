@@ -1,3 +1,3 @@
-$(document).ready(function() {   
- $('p').addClass('highlight');
+$(document).ready(function () {
+    $('p').addClass('highlight');
 })

@@ -1,3 +1,3 @@
-$(document).ready(function() {
-	$('.features').addClass('highlight');
+$(document).ready(function () {
+    $('.features').addClass('highlight');
 });

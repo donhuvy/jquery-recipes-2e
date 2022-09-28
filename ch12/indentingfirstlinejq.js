@@ -1,3 +1,3 @@
-$(document).ready(function() {
-  $('p').addClass('firstindent');
+$(document).ready(function () {
+    $('p').addClass('firstindent');
 });

@@ -1,3 +1,3 @@
-$(document).ready(function() {
-  $('span.cap').addClass('initialcap');
+$(document).ready(function () {
+    $('span.cap').addClass('initialcap');
 });

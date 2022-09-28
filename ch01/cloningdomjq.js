@@ -1,4 +1,4 @@
-$(document).ready(function() {  
-$( "p.info" ).clone().appendTo("p.features");
+$(document).ready(function () {
+    $("p.info").clone().appendTo("p.features");
 });
 

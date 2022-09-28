@@ -1,3 +1,3 @@
-$(document).ready(function() {
-  $('a[href^="mailto:"]').addClass('linkstyle');
+$(document).ready(function () {
+    $('a[href^="mailto:"]').addClass('linkstyle');
 });

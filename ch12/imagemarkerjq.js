@@ -1,3 +1,3 @@
-$(document).ready(function() {
-  $('ul').addClass('liststyle');
+$(document).ready(function () {
+    $('ul').addClass('liststyle');
 });

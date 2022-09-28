@@ -1,9 +1,8 @@
-.moveleft
-{
-	width:40%;
-	float:left;
+.moveleft {
+    width: 40%;
+    float: left;
 }
 
 .imagewrap {
-	clear:right;
+    clear: right;
 }
